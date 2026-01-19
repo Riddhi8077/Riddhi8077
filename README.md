@@ -1,45 +1,54 @@
-## Hi, I’m Riddhi 
+# Hi, I’m Riddhi 
 
-I’m a B.Tech Computer Science student and a Web / Full-Stack Developer with hands-on experience through multiple internships and real-world projects. I enjoy building scalable, user-focused web applications and contributing to meaningful open-source software.
+I’m a B.Tech Computer Science student and a Web / Full-Stack Developer with a strong interest in **open-source development**, **web security**, and **developer tooling**.
+
+I enjoy contributing to meaningful open-source projects and building scalable, user-focused web applications.
+
+---
+
+## Current Focus
+- Preparing for **Google Summer of Code (GSoC)**
+- Learning open-source contribution workflows
+- Contributing to **OWASP Core Rule Set (CRS)** (documentation & beginner-friendly issues)
+- Improving backend scalability and system design
+
+---
+
+## Open Source Contributions
+- **OWASP CRS**: Documentation PR (currently under review)
+- Actively exploring issues, contribution guidelines, and review feedback
+
+---
 
 ## Technical Skills
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express, TypeScript
-- **Databases:** MongoDB, MySQL
-- **Programming:** C, C++, Python, JavaScript
-- **Tools & Platforms:** Git, GitHub, Netlify, AWS, Google Cloud
-- **Other:** REST APIs, Responsive Design, Authentication, Payment Gateway Integration
-  
-### Experience Highlights
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express, TypeScript  
+**Databases:** MongoDB, MySQL  
+**Programming:** C, C++, Python, JavaScript  
+**Tools & Platforms:** Git, GitHub, Netlify, AWS, Google Cloud  
+**Other:** REST APIs, Responsive Design, Authentication, Payment Integrations  
 
-- Built and deployed **production-ready web applications** during internships
-- Implemented features like **user authentication, order management, payment integration, and responsive UI**
-- Worked on **real client projects** and collaborative development environments
-- Exposure to **AI tools, LLM-backed systems, and cloud platforms**
+---
 
-### Selected Projects
+## Selected Projects
+- **UpShotX** – Fully responsive services provider website for a personal client  
+- **Lensshine Website** – Authentication, order management, responsive UI  
+- **Amazon Bulk Gift Cards Microsite** – Mobile-first e-commerce site  
+- **MakeMyTrip Clone** – Booking, cancellation, refund & loyalty modules  
+- **Bytemart E-commerce Website** – Product filtering & order management  
 
-- **UpShotX** – Fully responsive services provider website built for a personal client.
-- **Lensshine Website** – User authentication, order management, responsive design. 
-- **Amazon Bulk Gift Cards Microsite** – Mobile-first e-commerce microsite. 
-- **MakeMyTrip Clone** – Booking, cancellation, refund & loyalty modules.
-- **Bytemart E-commerce Website** – Product filtering & order management.
- 
+_(Project links available in individual repositories)_
 
-(Links available in individual repositories)
+---
 
-### Currently Focusing On
-- Open-source contribution workflows
-- Writing clean, maintainable code
-- Improving backend scalability and system design
- 
-### Goals
+## Goals
 - Contribute consistently to open-source projects
-- Participate in **Google Summer of Code (GSoC)** as a Web / Full-stack contributor
-- Build impactful products that solve real problems
+- Get selected for **Google Summer of Code**
+- Build impactful software that solves real-world problems
 
-### Connect With Me
+---
 
+## Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/riddhi-pachehara  
 - **GitHub:** https://github.com/Riddhi8077  
 - **Email:** riddhipachehara@gmail.com
