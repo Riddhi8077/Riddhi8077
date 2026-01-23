@@ -15,10 +15,10 @@ I enjoy contributing to meaningful open-source projects and building scalable, u
 ---
 
 ## Open Source Contributions
-- OWASP Core Rule Set (CRS)
+- **OWASP Core Rule Set (CRS)**
 Documentation improvement pull request submitted and currently under review.
 Actively engaging with maintainers, addressing review feedback, and contributing to onboarding improvements.
--	OWASP Juice Shop
+-	**OWASP Juice Shop**
 Exploring Web3-related coding challenge enhancements; initial implementation scaffold pushed to fork and discussion initiated with maintainers.
 
 ---
