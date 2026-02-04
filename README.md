@@ -7,19 +7,18 @@ I enjoy contributing to meaningful open-source projects and building scalable, u
 ---
 
 ## Current Focus
-- Preparing for **Google Summer of Code (GSoC)**
+- Preparing for **Google Summer of Code (GSoC 2026)**
 - Learning open-source contribution workflows
-- Contributing to **OWASP Core Rule Set (CRS)** (documentation & beginner-friendly issues)
-- Improving backend scalability and system design
+- Actively contributing to **AOSSIE (PictoPy)**  
+  (studying project architecture, reviewing merged PRs, tracking open issues, and understanding UI/UX and cross-platform behavior)
+- Improving full-stack development, system design, and open-source collaboration skills
 
 ---
 
 ## Open Source Contributions
-- **OWASP Core Rule Set (CRS)**
-Documentation improvement pull request submitted and currently under review.
-Actively engaging with maintainers, addressing review feedback, and contributing to onboarding improvements.
--	**OWASP Juice Shop**
-Exploring Web3-related coding challenge enhancements; initial implementation scaffold pushed to fork and discussion initiated with maintainers.
+- **AOSSIE – PictoPy**  
+  Exploring the codebase, reading recent pull requests, and observing community discussions to identify meaningful contribution areas.  
+  Currently focusing on frontend (React/TypeScript) and desktop integration (Tauri) related workflows.
 
 ---
 
