@@ -21,30 +21,80 @@
 
 ## 🚀 Current Focus
 
-<div style="display: flex; flex-direction: column; gap: 15px;">
-  <div style="border-left: 4px solid #00D4FF; padding-left: 15px; background: #f0f8ff; padding: 10px; border-radius: 5px;">
-    <strong>Preparing for Google Summer of Code (GSoC 2026)</strong>
-  </div>
-  <div style="border-left: 4px solid #FF6B6B; padding-left: 15px; background: #fff5f5; padding: 10px; border-radius: 5px;">
-    <strong>Learning open-source contribution workflows</strong>
-  </div>
-  <div style="border-left: 4px solid #4ECDC4; padding-left: 15px; background: #e8f5f0; padding: 10px; border-radius: 5px;">
-    <strong>Actively contributing to AOSSIE (PictoPy)</strong><br>
-    Studying project architecture, reviewing merged PRs, tracking open issues, and understanding UI/UX and cross-platform behavior.
-  </div>
-  <div style="border-left: 4px solid #FFD93D; padding-left: 15px; background: #fffef0; padding: 10px; border-radius: 5px;">
-    <strong>Improving full-stack development, system design, and open-source collaboration skills</strong>
-  </div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/GSoC-2026-blue?style=for-the-badge"/><br/>
+Preparing for Google Summer of Code
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Open%20Source-Learning-green?style=for-the-badge"/><br/>
+Understanding contribution workflows
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/AOSSIE-PictoPy-purple?style=for-the-badge"/><br/>
+Studying codebase & PRs
+</td>
+
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/System%20Design-Improving-orange?style=for-the-badge"/><br/>
+Backend & architecture skills
+</td>
+</tr>
+</table>
+
 </div>
+
+2024 ── Learning full-stack deeply  
+2025 ── Building real production systems  
+2026 ── Target: Google Summer of Code  
 
 ---
 
-## 🌟 Open Source Contributions
+## 🌍 Open Source Contributions
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-  <h3 style="margin: 0; color: #FFD700;">AOSSIE – PictoPy</h3>
-  <p>Exploring the codebase, reading recent pull requests, and observing community discussions to identify meaningful contribution areas. Currently focusing on frontend (React/TypeScript) and desktop integration (Tauri) related workflows.</p>
+<div align="center">
+
+<table>
+<tr>
+<td width="320" align="left">
+
+### 🧩 Organization  
+**AOSSIE (Association of Open Source Software in Education)**  
+
+### 🛠 Project  
+**PictoPy**
+
+### 🎯 Current Role  
+Explorer & Contributor-in-Progress  
+
+</td>
+
+<td width="420" align="left">
+
+### What I'm doing there
+- Studying overall project architecture  
+- Reading recent pull requests & discussions  
+- Tracking open issues for contribution opportunities  
+- Focusing on frontend (React/TypeScript)  
+- Learning desktop integration via Tauri  
+
+</td>
+</tr>
+</table>
+
 </div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20Source-Mindset-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codebase-Exploration-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Community-Active-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Desktop-orange?style=flat-square"/>
+</p>
 
 ---
 
@@ -80,32 +130,63 @@
 </div>
 
 ---
-
-## 📂 Selected Projects
+## 🚀 Selected Projects
 
 <div align="center">
-  <div style="display: inline-block; margin: 10px; padding: 15px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4>UpShotX</h4>
-    <p>Fully responsive services provider website for a personal client</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 15px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4>Lensshine Website</h4>
-    <p>Authentication, order management, responsive UI</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 15px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4>Amazon Bulk Gift Cards Microsite</h4>
-    <p>Mobile-first e-commerce site</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 15px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4>MakeMyTrip Clone</h4>
-    <p>Booking, cancellation, refund & loyalty modules</p>
-  </div>
-  <div style="display: inline-block; margin: 10px; padding: 15px; background: #f8f9fa; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-    <h4>Bytemart E-commerce Website</h4>
-    <p>Product filtering & order management</p>
-  </div>
+
+<table>
+<tr>
+<td width="300">
+
+### 🧩 UpShotX  
+**Client Services Platform**  
+`Responsive UI` `Production` `Client Project`  
+
+</td>
+<td width="300">
+
+### 🛍 Lensshine Website  
+**E-commerce System**  
+`Auth` `Orders` `Real Users`  
+
+</td>
+</tr>
+
+<tr>
+<td width="300">
+
+### 🎁 Amazon Bulk Gift Cards  
+**Microsite**  
+`Mobile-first` `Payments` `Scalable`  
+
+</td>
+<td width="300">
+
+### ✈️ MakeMyTrip Clone  
+**Travel Booking System**  
+`Booking` `Refunds` `Loyalty`  
+
+</td>
+</tr>
+
+<tr>
+<td width="300">
+
+### 🛒 Bytemart  
+**E-commerce Platform**  
+`Filters` `Cart` `Orders`  
+
+</td>
+</tr>
+</table>
+
 </div>
-<p align="center"><em>Project links available in individual repositories</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Real%20World-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Theme-Scalable%20Systems-purple?style=flat-square"/>
+</p>
 
 ---
 
