@@ -49,10 +49,6 @@ Backend & architecture skills
 
 </div>
 
-2024 ── Learning full-stack deeply  
-2025 ── Building real production systems  
-2026 ── Target: Google Summer of Code  
-
 ---
 
 ## 🌍 Open Source Contributions
@@ -197,34 +193,51 @@ Actively building and refining production-grade systems.
 
 ---
 
-## 🌱 My Mission
+## ⚡ Mission Control
 
-> *Not just to get placed — but to become genuinely world-class at what I build.*
-
----
-
-### 🎓 Career
-![Internship](https://img.shields.io/badge/-Top%20Software%20Internship-blue?style=for-the-badge)
-![GSoC](https://img.shields.io/badge/-Google%20Summer%20of%20Code-green?style=for-the-badge)
-![OpenSource](https://img.shields.io/badge/-Open%20Source%20Impact-orange?style=for-the-badge)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+World+Class+Engineer;Gearing+Up+for+GSoC+2026;Turning+Ideas+Into+Impact" />
+</p>
 
 ---
 
-### 🛠 Engineering
-![FullStack](https://img.shields.io/badge/-Full%20Stack%20Mastery-purple?style=for-the-badge)
-![SystemDesign](https://img.shields.io/badge/-System%20Design-critical?style=for-the-badge)
-![Scalable](https://img.shields.io/badge/-Scalable%20Systems-informational?style=for-the-badge)
+<details open>
+<summary>🧱 <b>Core Foundation</b></summary>
 
----
+- Master **DSA**
+- Build strong **Full-Stack depth**
+- Write **clean, maintainable code**
 
-### 🌍 Long Term Vision
-![BigTech](https://img.shields.io/badge/-Big%20Tech%20Engineer-success?style=for-the-badge)
-![Products](https://img.shields.io/badge/-Real%20World%20Products-yellow?style=for-the-badge)
-![Mentor](https://img.shields.io/badge/-Tech%20Mentor-lightgrey?style=for-the-badge)
+</details>
 
----
+<details>
+<summary>🛠 <b>Real World Engineering</b></summary>
 
-<p align="center"><i>“I don’t chase titles. I chase mastery.”</i></p>
+- Secure a **top software internship**
+- Ship systems for **real users**
+- Learn **system design & scalability**
+
+</details>
+
+<details>
+<summary>🌍 <b>Open Source Journey</b></summary>
+
+- Get selected for **GSoC 2026**
+- Become a **consistent contributor**
+- Collaborate globally
+
+</details>
+
+<details>
+<summary>🧠 <b>Long-Term Vision</b></summary>
+
+- Work as a **Big Tech engineer**
+- Build **impactful products**
+- Mentor future developers
+
+</details>
+
+<p align="center"><i>“I don’t want a job. I want a trajectory.”</i></p>
 
 ---
 
@@ -246,15 +259,12 @@ Actively building and refining production-grade systems.
 </div>
 
 ---
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Riddhi8077&theme=dark&hide_border=false&include_all_commits=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Riddhi8077&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhi8077&theme=dark&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riddhi8077&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riddhi8077&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Riddhi8077&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Riddhi8077&limit=5&theme=dark&combine_all_yearly_contributions=true)
