@@ -130,51 +130,58 @@ Explorer & Contributor-in-Progress
 </div>
 
 ---
+
 ## 🚀 Selected Projects
 
-<div align="center">
+<div align="left">
 
-<table>
+<table width="100%">
 <tr>
-<td width="300">
+<td width="50%">
 
-### 🧩 UpShotX  
-**Client Services Platform**  
-`Responsive UI` `Production` `Client Project`  
+### 🟦 UpShotX  
+**Services Platform**  
+Fully responsive website built for a real client, focusing on usability, clean UI, and business requirements.
 
 </td>
-<td width="300">
+<td width="50%">
 
-### 🛍 Lensshine Website  
+### 🟣 Lensshine  
 **E-commerce System**  
-`Auth` `Orders` `Real Users`  
+Authentication, order management, and responsive UI for an eyewear platform used in real operations.
 
 </td>
 </tr>
 
 <tr>
-<td width="300">
+<td width="50%">
 
-### 🎁 Amazon Bulk Gift Cards  
-**Microsite**  
-`Mobile-first` `Payments` `Scalable`  
+### 🟢 Amazon Bulk Gift Cards  
+**E-commerce Microsite**  
+Mobile-first platform optimized for high conversion and cross-device performance.
 
 </td>
-<td width="300">
+<td width="50%">
 
-### ✈️ MakeMyTrip Clone  
-**Travel Booking System**  
-`Booking` `Refunds` `Loyalty`  
+### 🟠 MakeMyTrip Clone  
+**Booking System**  
+Implemented booking, cancellation, refund, and loyalty workflows.
 
 </td>
 </tr>
 
 <tr>
-<td width="300">
+<td width="50%">
 
-### 🛒 Bytemart  
-**E-commerce Platform**  
-`Filters` `Cart` `Orders`  
+### 🔵 Bytemart  
+**Online Store**  
+Product filtering, cart, and order management under real-world constraints.
+
+</td>
+<td width="50%">
+
+### ⚡ More Coming  
+Actively building and refining production-grade systems.
 
 </td>
 </tr>
@@ -182,36 +189,42 @@ Explorer & Contributor-in-Progress
 
 </div>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Type-Full--Stack-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Real%20World-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Theme-Scalable%20Systems-purple?style=flat-square"/>
+<p align="left">
+<img src="https://img.shields.io/badge/Portfolio-Full%20Stack-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Design-Product%20Focused-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impact-Real%20Users-purple?style=flat-square"/>
 </p>
 
 ---
 
-## 🎯 Goals
+## 🌱 My Mission
 
-<div align="center">
-  <div style="width: 80%; margin: 20px 0;">
-    <h4>Contribute consistently to open-source projects</h4>
-    <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
-      <div style="background: linear-gradient(90deg, #00D4FF, #0099CC); width: 85%; height: 100%; border-radius: 10px;"></div>
-    </div>
-  </div>
-  <div style="width: 80%; margin: 20px 0;">
-    <h4>Get selected for Google Summer of Code</h4>
-    <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
-      <div style="background: linear-gradient(90deg, #FF6B6B, #CC3333); width: 70%; height: 100%; border-radius: 10px;"></div>
-    </div>
-  </div>
-  <div style="width: 80%; margin: 20px 0;">
-    <h4>Build impactful software that solves real-world problems</h4>
-    <div style="background: #e0e0e0; border-radius: 10px; height: 20px;">
-      <div style="background: linear-gradient(90deg, #4ECDC4, #26A69A); width: 90%; height: 100%; border-radius: 10px;"></div>
-    </div>
-  </div>
-</div>
+> *Not just to get placed — but to become genuinely world-class at what I build.*
+
+---
+
+### 🎓 Career
+![Internship](https://img.shields.io/badge/-Top%20Software%20Internship-blue?style=for-the-badge)
+![GSoC](https://img.shields.io/badge/-Google%20Summer%20of%20Code-green?style=for-the-badge)
+![OpenSource](https://img.shields.io/badge/-Open%20Source%20Impact-orange?style=for-the-badge)
+
+---
+
+### 🛠 Engineering
+![FullStack](https://img.shields.io/badge/-Full%20Stack%20Mastery-purple?style=for-the-badge)
+![SystemDesign](https://img.shields.io/badge/-System%20Design-critical?style=for-the-badge)
+![Scalable](https://img.shields.io/badge/-Scalable%20Systems-informational?style=for-the-badge)
+
+---
+
+### 🌍 Long Term Vision
+![BigTech](https://img.shields.io/badge/-Big%20Tech%20Engineer-success?style=for-the-badge)
+![Products](https://img.shields.io/badge/-Real%20World%20Products-yellow?style=for-the-badge)
+![Mentor](https://img.shields.io/badge/-Tech%20Mentor-lightgrey?style=for-the-badge)
+
+---
+
+<p align="center"><i>“I don’t chase titles. I chase mastery.”</i></p>
 
 ---
 
