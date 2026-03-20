@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Backend & architecture skills
 
 ---
 
-## 🌍 Open Source Contributions
+##  Open Source Contributions
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Backend & architecture skills
 ### 🛠 Project  
 **PictoPy**
 
-### 🎯 Current Role  
+###  Current Role  
 Explorer & Contributor-in-Progress  
 
 </td>
@@ -94,7 +94,7 @@ Explorer & Contributor-in-Progress
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <table>
@@ -127,7 +127,7 @@ Explorer & Contributor-in-Progress
 
 ---
 
-## 🚀 Selected Projects
+##  Selected Projects
 
 <div align="left">
 
@@ -176,7 +176,7 @@ Product filtering, cart, and order management under real-world constraints.
 </td>
 <td width="50%">
 
-### ⚡ More Coming  
+###  More Coming  
 Actively building and refining production-grade systems.
 
 </td>
@@ -193,7 +193,7 @@ Actively building and refining production-grade systems.
 
 ---
 
-## ⚡ Mission Control
+##  Mission Control
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Building+World+Class+Engineer;Gearing+Up+for+GSoC+2026;Turning+Ideas+Into+Impact" />
@@ -229,7 +229,7 @@ Actively building and refining production-grade systems.
 </details>
 
 <details>
-<summary>🧠 <b>Long-Term Vision</b></summary>
+<summary> <b>Long-Term Vision</b></summary>
 
 - Work as a **Big Tech engineer**
 - Build **impactful products**
@@ -241,7 +241,7 @@ Actively building and refining production-grade systems.
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/riddhi-pachehara" target="_blank">
