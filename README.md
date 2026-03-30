@@ -12,7 +12,7 @@
 
 <div align="center">
   <blockquote style="border-left: 5px solid #00D4FF; padding-left: 20px; font-style: italic; font-size: 18px; color: #333; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <p>I'm a B.Tech Computer Science student and a Web / Full-Stack Developer with a strong interest in <strong>open-source development</strong>, <strong>web security</strong>, and <strong>developer tooling</strong>.</p>
+    <p>I'm a B.Tech Computer Science student and a Web / Full-Stack Developer with a strong interest in <strong>OpenSource development</strong>, <strong>web security</strong>, and <strong>developer tooling</strong>.</p>
     <p>I enjoy contributing to meaningful open-source projects and building scalable, user-focused web applications.</p>
   </blockquote>
 </div>
