@@ -391,6 +391,9 @@ Forms the core infrastructure behind the UpShot platform suite.
   <a href="mailto:riddhipachehara@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+<a href="https://riddhipacheharaportfolio.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+</a>
 </div>
 
 ---
