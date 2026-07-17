@@ -94,35 +94,135 @@ Explorer & Contributor-in-Progress
 
 ---
 
-##  Tech Stack
+## ⚡ Engineering Arsenal
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/Netlify-00C58E?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></td>
-      <td align="center"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></td>
-    </tr>
-  </table>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🖥️ Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,angular,html,css" />
+
+<br><br>
+
+`React` • `Angular 16` • `TypeScript`
+<br>
+`JavaScript` • `HTML5` • `CSS3`
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,spring" />
+
+<br><br>
+
+`Node.js` • `Express.js`
+<br>
+`GraphQL` • `Spring Boot`
+<br>
+`REST APIs`
+
+</td>
+
+<td align="center" width="33%">
+
+### 🗄️ Data Engineering
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+`MongoDB`
+<br>
+`MySQL`
+<br>
+`SQL`
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,git,github" />
+
+<br><br>
+
+`AWS`
+<br>
+`Google Cloud`
+<br>
+`GitHub Actions`
+<br>
+`CI/CD`
+
+</td>
+
+<td align="center">
+
+### 🧠 Programming
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,go" />
+
+<br><br>
+
+`Java`
+<br>
+`C++`
+<br>
+`Python`
+<br>
+`Go`
+
+</td>
+
+<td align="center">
+
+### 🔬 Software Engineering
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<br><br>
+
+`DSA`
+<br>
+`OOP`
+<br>
+`System Design`
+<br>
+`Unit Testing`
+<br>
+`Performance Optimization`
+
+</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Engineering Focus
+
+```text
+Backend Systems         ████████████████░   90%
+Frontend Engineering    ██████████████░░░   85%
+Software Engineering    █████████████░░░░   82%
+Cloud & DevOps          ██████████░░░░░░░   65%
+AI Engineering          █████████░░░░░░░░   55%
+```
+
 </div>
 
 ---
