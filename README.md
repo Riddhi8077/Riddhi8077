@@ -51,45 +51,56 @@ Backend & architecture skills
 
 ---
 
-##  Open Source Contributions
+## 🌍 Open Source Contributions
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="320" align="left">
 
-### 🧩 Organization  
-**AOSSIE (Association of Open Source Software in Education)**  
+<td width="50%">
 
-### 🛠 Project  
-**PictoPy**
+### AOSSIE
+**Association of Open Source Software in Education**
 
-###  Current Role  
-Explorer & Contributor-in-Progress  
+Currently contributing to open-source initiatives while exploring large-scale project architectures and contribution workflows.
+
+**Focus Areas**
+- Frontend development with React & TypeScript
+- Understanding desktop integration via Tauri
+- Reviewing pull requests and issue discussions
+- Exploring scalable software architecture
+
+**Project:** `PictoPy`
+
+</td>
+
+<td width="50%">
+
+### freeCodeCamp
+**Open Source Contributor**
+
+Contributed production-ready fixes to the freeCodeCamp codebase by improving GraphQL workflows and deployment reliability.
+
+Successfully cleared maintainer reviews and merged contributions while following enterprise-grade development standards.
+
+**Impact**
+- Improved deployment reliability
+- Prevented build pipeline failures
+- Worked with large-scale codebases serving millions of users
 
 </td>
 
-<td width="420" align="left">
-
-### What I'm doing there
-- Studying overall project architecture  
-- Reading recent pull requests & discussions  
-- Tracking open issues for contribution opportunities  
-- Focusing on frontend (React/TypeScript)  
-- Learning desktop integration via Tauri  
-
-</td>
 </tr>
 </table>
 
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20Source-Mindset-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Codebase-Exploration-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Community-Active-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Desktop-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20Source-Global%20Communities-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codebase-Large%20Scale-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Goal-GSoC%202027-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Production%20Quality-purple?style=flat-square"/>
 </p>
 
 ---
