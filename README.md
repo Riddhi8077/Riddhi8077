@@ -238,18 +238,18 @@ AI Engineering          █████████░░░░░░░░   55
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-| 🏆 Project | Description |
+| Project | Description |
 |------------|-------------|
-| **🥗 MedoVeda**<br>🏅 *GDG Build with AI Winner* | AI nutrition analysis platform using OCR pipelines and hallucination-safe prompt workflows.<br><br>`AI` `OCR` `Node.js` |
-| **🏛️ SynGov**<br>🏅 *Google HackDays Top 5 Finalist* | Governance platform featuring AI proposal summaries and blockchain-backed voting.<br><br>`TypeScript` `AI` `Web3` |
-| **👓 Lensshine Software**<br>🏢 *Production Platform* | Full-stack optical business software supporting inventory, orders, and customer operations.<br><br>`React` `Node.js` `MongoDB` |
-| **🧩 Preecode**<br>💡 *Developer Companion* | AI-assisted coding extension for practice, code reviews, and workflow improvement inside the editor.<br><br>`AI` `VS Code` `Developer Tools` |
-| **🤖 UpShotX AI Tool**<br>🚀 *AI SaaS Product* | AI platform for content generation, premium workflows, and intelligent automation.<br><br>`Next.js` `Supabase` `Razorpay` |
-| **⚙️ UpShot Backend**<br>🔧 *Infrastructure Layer* | Backend services powering authentication, payments, courses, and AI integrations.<br><br>`Node.js` `Express` `SQLite` |
+| **MedoVeda**<br>🏅 *GDG Build with AI Winner* | AI nutrition analysis platform using OCR pipelines and hallucination-safe prompt workflows.<br><br>`AI` `OCR` `Node.js` |
+| **SynGov**<br>🏅 *Google HackDays Top 5 Finalist* | Governance platform featuring AI proposal summaries and blockchain-backed voting.<br><br>`TypeScript` `AI` `Web3` |
+| **Lensshine Software**<br> *Production Platform* | Full-stack optical business software supporting inventory, orders, and customer operations.<br><br>`React` `Node.js` `MongoDB` |
+| **Preecode**<br> *Developer Companion* | AI-assisted coding extension for practice, code reviews, and workflow improvement inside the editor.<br><br>`AI` `VS Code` `Developer Tools` |
+| **UpShotX AI Tool**<br> *AI SaaS Product* | AI platform for content generation, premium workflows, and intelligent automation.<br><br>`Next.js` `Supabase` `Razorpay` |
+| **UpShot Backend**<br> *Infrastructure Layer* | Backend services powering authentication, payments, courses, and AI integrations.<br><br>`Node.js` `Express` `SQLite` |
 
 </div>
 
