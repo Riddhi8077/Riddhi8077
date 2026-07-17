@@ -94,7 +94,7 @@ Explorer & Contributor-in-Progress
 
 ---
 
-## ⚡ Engineering Arsenal
+## Engineering Arsenal
 
 <div align="center">
 
@@ -102,7 +102,7 @@ Explorer & Contributor-in-Progress
 <tr>
 <td align="center" width="33%">
 
-### 🖥️ Frontend Engineering
+### Frontend Engineering
 
 <img src="https://skillicons.dev/icons?i=react,ts,js,angular,html,css" />
 
@@ -116,7 +116,7 @@ Explorer & Contributor-in-Progress
 
 <td align="center" width="33%">
 
-### ⚙️ Backend Engineering
+### Backend Engineering
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,spring" />
 
@@ -132,7 +132,7 @@ Explorer & Contributor-in-Progress
 
 <td align="center" width="33%">
 
-### 🗄️ Data Engineering
+### Data Engineering
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
@@ -150,7 +150,7 @@ Explorer & Contributor-in-Progress
 <tr>
 <td align="center">
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,git,github" />
 
@@ -168,7 +168,7 @@ Explorer & Contributor-in-Progress
 
 <td align="center">
 
-### 🧠 Programming
+### Programming
 
 <img src="https://skillicons.dev/icons?i=java,cpp,python,go" />
 
@@ -186,7 +186,7 @@ Explorer & Contributor-in-Progress
 
 <td align="center">
 
-### 🔬 Software Engineering
+### Software Engineering
 
 <img src="https://skillicons.dev/icons?i=postman" />
 
@@ -213,7 +213,7 @@ Explorer & Contributor-in-Progress
 
 <div align="center">
 
-### 📈 Engineering Focus
+### Engineering Focus
 
 ```text
 Backend Systems         ████████████████░   90%
