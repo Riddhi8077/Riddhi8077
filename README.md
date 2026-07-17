@@ -227,24 +227,32 @@ AI Engineering          █████████░░░░░░░░   55
 
 ---
 
-##  Selected Projects
+## 🚀 Featured Projects
 
 <div align="left">
 
 <table width="100%">
+
 <tr>
 <td width="50%">
 
-### 🟦 UpShotX  
-**Services Platform**  
-Fully responsive website built for a real client, focusing on usability, clean UI, and business requirements.
+### 🧠 UpShotX AI Tool
+**AI SaaS Platform**
+
+AI-powered productivity platform featuring content generation, premium workflows, authentication and scalable backend services.
+
+**Stack:** `Next.js` `TypeScript` `Supabase` `Razorpay`
 
 </td>
+
 <td width="50%">
 
-### 🟣 Lensshine  
-**E-commerce System**  
-Authentication, order management, and responsive UI for an eyewear platform used in real operations.
+### 🛠️ UpShotX Admin Panel
+**Course Management System**
+
+Centralized dashboard for managing courses, uploads, pricing, categories and business workflows with role-based administration.
+
+**Stack:** `React` `Node.js` `MySQL` `REST APIs`
 
 </td>
 </tr>
@@ -252,16 +260,23 @@ Authentication, order management, and responsive UI for an eyewear platform used
 <tr>
 <td width="50%">
 
-### 🟢 Amazon Bulk Gift Cards  
-**E-commerce Microsite**  
-Mobile-first platform optimized for high conversion and cross-device performance.
+### 🌐 UpShotX Website
+**Production Business Website**
+
+Public-facing platform designed for customer acquisition, service delivery and scalable content presentation.
+
+**Stack:** `React` `TailwindCSS` `Responsive UI`
 
 </td>
+
 <td width="50%">
 
-### 🟠 MakeMyTrip Clone  
-**Booking System**  
-Implemented booking, cancellation, refund, and loyalty workflows.
+### 👓 Lensshine Software
+**Production E-Commerce Platform**
+
+Complete optical store management system supporting authentication, order workflows and real-world business operations.
+
+**Stack:** `React` `Node.js` `MongoDB` `Express`
 
 </td>
 </tr>
@@ -269,26 +284,36 @@ Implemented booking, cancellation, refund, and loyalty workflows.
 <tr>
 <td width="50%">
 
-### 🔵 Bytemart  
-**Online Store**  
-Product filtering, cart, and order management under real-world constraints.
+### 🥗 MedoVeda
+**GDG Build with AI Hackathon Winner**
+
+AI-driven nutrition analysis platform using OCR pipelines and structured prompt workflows for health insights.
+
+**Stack:** `AI` `OCR` `Node.js` `Prompt Engineering`
 
 </td>
+
 <td width="50%">
 
-###  More Coming  
-Actively building and refining production-grade systems.
+### 🏛️ SynGov
+**Top 5 Finalist • Google HackDays Delhi 2026**
+
+Governance platform with AI proposal summaries and blockchain-backed voting for transparent community decisions.
+
+**Stack:** `TypeScript` `AI` `Blockchain`
 
 </td>
 </tr>
+
 </table>
 
 </div>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Portfolio-Full%20Stack-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Design-Product%20Focused-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Impact-Real%20Users-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Category-AI%20Products-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scale-Production%20Systems-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recognition-Hackathon%20Winning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Real%20Business%20Impact-purple?style=flat-square"/>
 </p>
 
 ---
