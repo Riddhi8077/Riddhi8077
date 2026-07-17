@@ -238,104 +238,26 @@ AI Engineering          █████████░░░░░░░░   55
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<div align="left">
+<div align="center">
 
-<table width="100%">
-
-<tr>
-<td width="50%">
-
-### MedoVeda
-**Winner • GDG Build with AI Hackathon**
-
-Developed an AI nutrition analysis platform leveraging OCR pipelines and structured prompt workflows, implementing input validation and hallucination-check filters for real-time risk detection.
-
-Architected asynchronous data processing workflows to handle complex health datasets while improving response efficiency.
-
-**Tech:** `AI` `OCR` `Node.js` `Prompt Engineering`
-
-</td>
-<td width="50%">
-
-### SynGov
-**Top 5 Finalist • Google HackDays Delhi 2026**
-
-Built a governance platform for college communities with transparent proposal management and contribution-based voting.
-
-Integrated AI-powered proposal summaries and blockchain-backed voting mechanisms for fairer and more informed decision-making.
-
-**Tech:** `TypeScript` `AI` `Blockchain` `Web3`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Lensshine Software
-**Production E-Commerce Platform**
-
-Designed and deployed REST APIs serving real business workflows while improving mobile responsiveness and cross-device usability.
-
-Supports authentication, order management, inventory workflows, and customer operations for an active optical business.
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
-
-</td>
-
-<td width="50%">
-
-### Preecode
-**AI-Powered Developer Companion**
-
-Preecode helps developers practice consistently, review code with AI assistance, and improve problem-solving skills without leaving their editor.
-
-Combines coding workflows, guidance, AI reviews, and progress-oriented tooling into a unified developer experience.
-
-**Tech:** `AI` `Developer Tools` `VS Code Extension`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### UpShotX AI Tool
-**AI SaaS Platform**
-
-AI-powered platform focused on content generation, intelligent workflows, premium subscriptions, and scalable backend integrations.
-
-Built with authentication, payment workflows, and modern AI interaction patterns.
-
-**Tech:** `Next.js` `TypeScript` `Supabase` `Razorpay`
-
-</td>
-
-<td width="50%">
-
-### UpShot Backend
-**Backend Infrastructure Platform**
-
-Scalable backend services powering AI workflows, authentication, payment processing, course management, and application integrations across the UpShot ecosystem.
-
-Forms the core infrastructure behind the UpShot platform suite.
-
-**Tech:** `Node.js` `Express.js` `REST APIs` `SQLite`
-
-</td>
-</tr>
-
-</table>
+| 🏆 Project | Description |
+|------------|-------------|
+| **🥗 MedoVeda**<br>🏅 *GDG Build with AI Winner* | AI nutrition analysis platform using OCR pipelines and hallucination-safe prompt workflows.<br><br>`AI` `OCR` `Node.js` |
+| **🏛️ SynGov**<br>🏅 *Google HackDays Top 5 Finalist* | Governance platform featuring AI proposal summaries and blockchain-backed voting.<br><br>`TypeScript` `AI` `Web3` |
+| **👓 Lensshine Software**<br>🏢 *Production Platform* | Full-stack optical business software supporting inventory, orders, and customer operations.<br><br>`React` `Node.js` `MongoDB` |
+| **🧩 Preecode**<br>💡 *Developer Companion* | AI-assisted coding extension for practice, code reviews, and workflow improvement inside the editor.<br><br>`AI` `VS Code` `Developer Tools` |
+| **🤖 UpShotX AI Tool**<br>🚀 *AI SaaS Product* | AI platform for content generation, premium workflows, and intelligent automation.<br><br>`Next.js` `Supabase` `Razorpay` |
+| **⚙️ UpShot Backend**<br>🔧 *Infrastructure Layer* | Backend services powering authentication, payments, courses, and AI integrations.<br><br>`Node.js` `Express` `SQLite` |
 
 </div>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Hackathons-Award%20Winning-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Products-Production%20Ready-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI-Integrated-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Impact-Real%20Users-purple?style=flat-square"/>
+<p align="center">
+<img src="https://img.shields.io/badge/Hackathons-Winning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Integrated-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Products-Production%20Ready-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Impact-Real%20Users-purple?style=for-the-badge"/>
 </p>
 
 ---
