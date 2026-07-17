@@ -337,7 +337,7 @@ Forms the core infrastructure behind the UpShot platform suite.
 ---
 
 <details open>
-<summary>🧱 <b>Core Foundation</b></summary>
+<summary><b>Core Foundation</b></summary>
 
 - Master **DSA**
 - Build strong **Full-Stack depth**
@@ -346,7 +346,7 @@ Forms the core infrastructure behind the UpShot platform suite.
 </details>
 
 <details>
-<summary>🛠 <b>Real World Engineering</b></summary>
+<summary><b>Real World Engineering</b></summary>
 
 - Secure a **top software internship**
 - Ship systems for **real users**
@@ -355,7 +355,7 @@ Forms the core infrastructure behind the UpShot platform suite.
 </details>
 
 <details>
-<summary>🌍 <b>Open Source Journey</b></summary>
+<summary><b>Open Source Journey</b></summary>
 
 - Get selected for **GSoC 2026**
 - Become a **consistent contributor**
@@ -404,5 +404,5 @@ Forms the core infrastructure behind the UpShot platform suite.
 
 ---
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Riddhi8077&limit=5&theme=dark&combine_all_yearly_contributions=true)
