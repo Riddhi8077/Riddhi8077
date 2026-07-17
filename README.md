@@ -227,7 +227,7 @@ AI Engineering          █████████░░░░░░░░   55
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="left">
 
@@ -236,71 +236,82 @@ AI Engineering          █████████░░░░░░░░   55
 <tr>
 <td width="50%">
 
-### 🧠 UpShotX AI Tool
-**AI SaaS Platform**
+### MedoVeda
+**Winner • GDG Build with AI Hackathon**
 
-AI-powered productivity platform featuring content generation, premium workflows, authentication and scalable backend services.
+Developed an AI nutrition analysis platform leveraging OCR pipelines and structured prompt workflows, implementing input validation and hallucination-check filters for real-time risk detection.
 
-**Stack:** `Next.js` `TypeScript` `Supabase` `Razorpay`
+Architected asynchronous data processing workflows to handle complex health datasets while improving response efficiency.
 
-</td>
-
-<td width="50%">
-
-### 🛠️ UpShotX Admin Panel
-**Course Management System**
-
-Centralized dashboard for managing courses, uploads, pricing, categories and business workflows with role-based administration.
-
-**Stack:** `React` `Node.js` `MySQL` `REST APIs`
+**Tech:** `AI` `OCR` `Node.js` `Prompt Engineering`
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
-### 🌐 UpShotX Website
-**Production Business Website**
-
-Public-facing platform designed for customer acquisition, service delivery and scalable content presentation.
-
-**Stack:** `React` `TailwindCSS` `Responsive UI`
-
-</td>
-
-<td width="50%">
-
-### 👓 Lensshine Software
-**Production E-Commerce Platform**
-
-Complete optical store management system supporting authentication, order workflows and real-world business operations.
-
-**Stack:** `React` `Node.js` `MongoDB` `Express`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🥗 MedoVeda
-**GDG Build with AI Hackathon Winner**
-
-AI-driven nutrition analysis platform using OCR pipelines and structured prompt workflows for health insights.
-
-**Stack:** `AI` `OCR` `Node.js` `Prompt Engineering`
-
-</td>
-
-<td width="50%">
-
-### 🏛️ SynGov
+### SynGov
 **Top 5 Finalist • Google HackDays Delhi 2026**
 
-Governance platform with AI proposal summaries and blockchain-backed voting for transparent community decisions.
+Built a governance platform for college communities with transparent proposal management and contribution-based voting.
 
-**Stack:** `TypeScript` `AI` `Blockchain`
+Integrated AI-powered proposal summaries and blockchain-backed voting mechanisms for fairer and more informed decision-making.
+
+**Tech:** `TypeScript` `AI` `Blockchain` `Web3`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Lensshine Software
+**Production E-Commerce Platform**
+
+Designed and deployed REST APIs serving real business workflows while improving mobile responsiveness and cross-device usability.
+
+Supports authentication, order management, inventory workflows, and customer operations for an active optical business.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB`
+
+</td>
+
+<td width="50%">
+
+### Preecode
+**AI-Powered Developer Companion**
+
+Preecode helps developers practice consistently, review code with AI assistance, and improve problem-solving skills without leaving their editor.
+
+Combines coding workflows, guidance, AI reviews, and progress-oriented tooling into a unified developer experience.
+
+**Tech:** `AI` `Developer Tools` `VS Code Extension`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### UpShotX AI Tool
+**AI SaaS Platform**
+
+AI-powered platform focused on content generation, intelligent workflows, premium subscriptions, and scalable backend integrations.
+
+Built with authentication, payment workflows, and modern AI interaction patterns.
+
+**Tech:** `Next.js` `TypeScript` `Supabase` `Razorpay`
+
+</td>
+
+<td width="50%">
+
+### UpShot Backend
+**Backend Infrastructure Platform**
+
+Scalable backend services powering AI workflows, authentication, payment processing, course management, and application integrations across the UpShot ecosystem.
+
+Forms the core infrastructure behind the UpShot platform suite.
+
+**Tech:** `Node.js` `Express.js` `REST APIs` `SQLite`
 
 </td>
 </tr>
@@ -310,14 +321,13 @@ Governance platform with AI proposal summaries and blockchain-backed voting for 
 </div>
 
 <p align="left">
-<img src="https://img.shields.io/badge/Category-AI%20Products-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scale-Production%20Systems-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Recognition-Hackathon%20Winning-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Real%20Business%20Impact-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hackathons-Award%20Winning-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Products-Production%20Ready-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-Integrated-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impact-Real%20Users-purple?style=flat-square"/>
 </p>
 
 ---
-
 ##  Mission Control
 
 <p align="center">
